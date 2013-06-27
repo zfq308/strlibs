@@ -1,3 +1,6 @@
 [submodule "levenshtein/levenshtein-repo"]
 	path = levenshtein/levenshtein-repo
 	url = git@github.com:pengkui/levenshtein.git
+[submodule "jellyfish/jellyfish-repo"]
+	path = jellyfish/jellyfish-repo
+	url = git@github.com:pengkui/jellyfish.git
