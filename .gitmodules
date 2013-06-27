@@ -1,0 +1,3 @@
+[submodule "levenshtein/levenshtein-repo"]
+	path = levenshtein/levenshtein-repo
+	url = git@github.com:pengkui/levenshtein.git
